@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tharper000.github.io/sitemap.xml
